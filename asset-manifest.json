@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ecomm-my-app/static/css/main.d332d065.css",
+    "main.js": "/ecomm-my-app/static/js/main.5c9a1e06.js",
+    "static/js/453.a2dcf160.chunk.js": "/ecomm-my-app/static/js/453.a2dcf160.chunk.js",
+    "static/media/one.jpg": "/ecomm-my-app/static/media/one.5ccc0988e28cc3e19c34.jpg",
+    "static/media/two.jpg": "/ecomm-my-app/static/media/two.8e1f97c19a6f40c5a148.jpg",
+    "static/media/Shopping.jpg": "/ecomm-my-app/static/media/Shopping.d4c6c6ebddbdb2f338a4.jpg",
+    "static/media/three.jpg": "/ecomm-my-app/static/media/three.edcd77f02491aef92f4f.jpg",
+    "static/media/Mens.jpg": "/ecomm-my-app/static/media/Mens.4b13f7385ea43e47cd0a.jpg",
+    "static/media/Women.jpg": "/ecomm-my-app/static/media/Women.2d04362f7705182abcf7.jpg",
+    "static/media/ethics.jpg": "/ecomm-my-app/static/media/ethics.e31bd6c5a995e78e102e.jpg",
+    "index.html": "/ecomm-my-app/index.html",
+    "main.d332d065.css.map": "/ecomm-my-app/static/css/main.d332d065.css.map",
+    "main.5c9a1e06.js.map": "/ecomm-my-app/static/js/main.5c9a1e06.js.map",
+    "453.a2dcf160.chunk.js.map": "/ecomm-my-app/static/js/453.a2dcf160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d332d065.css",
+    "static/js/main.5c9a1e06.js"
+  ]
+}
